@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-kit/kit/log"
 	"github.com/go-kit/kit/metrics"
-	"github.com/microservices-dem-/user/users"
+	"github.com/microservices-demo-user/users"
 )
 
 // Middleware decorates a service.
